@@ -5,6 +5,11 @@ and **Node.js + Express** on the backend, with JWT authentication and a lightwei
 file database (no external database server needed — perfect for running locally or for a
 portfolio project).
 
+# Demo Link — E- Commerce Store
+
+🔗 **Live site:** [frontend-blue-iota-95.vercel.app](https://frontend-blue-iota-95.vercel.app)
+A full-stack e-commerce web app built with **Vue 3 + Pinia + Tailwind CSS** on the frontend
+
 ## Features
 
 - 🛍️ Product catalog with search, category filters, and price sorting
