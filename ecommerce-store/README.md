@@ -4,11 +4,6 @@ A full-stack e-commerce web app built with **Vue 3 + Pinia + Tailwind CSS** on t
 and **Node.js + Express** on the backend, with JWT authentication and a lightweight JSON
 file database (no external database server needed — perfect for running locally or for a
 portfolio project).
-# Tayyba Fardos — Portfolio
-
-🔗 **Live site:** [tayyba-portfolio.vercel.app](https://tayyba-portfolio.vercel.app)
-
-A React portfolio site styled like a code editor, built from scratch with Vite.
 
 ## Features
 
