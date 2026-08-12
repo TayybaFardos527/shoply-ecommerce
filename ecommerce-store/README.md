@@ -12,7 +12,7 @@ A full-stack e-commerce web app built with **Vue 3 + Pinia + Tailwind CSS** on t
 
 ## Features
 
-- 🛍️ Product catalog with search, category filters, and price sorting
+- 🛍️ Product catalog with search, category filters, and price sorting.
 - 🛒 Persistent shopping cart (saved in localStorage)
 - 🔐 User authentication (register/login) with JWT tokens, passwords hashed with bcrypt
 - 💳 Checkout flow that creates real orders and reduces product stock
